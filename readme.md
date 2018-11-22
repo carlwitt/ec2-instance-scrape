@@ -1,0 +1,1 @@
+Obtaining instance type information from amazon EC2 and plotting, e.g., price vs. RAM and vCPU count.
